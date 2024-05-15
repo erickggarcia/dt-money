@@ -31,6 +31,14 @@
       "type": "outcome",
       "createdAt": "2024-05-14T16:34:41.021Z",
       "id": 4
+    },
+    {
+      "description": "Pastel",
+      "category": "Alimentação",
+      "price": 8,
+      "type": "outcome",
+      "createdAt": "2024-05-14T16:54:16.489Z",
+      "id": 5
     }
   ]
 }
